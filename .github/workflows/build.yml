@@ -3,3 +3,4 @@ name: Go
 
 on:
   push:
+    branches: [ "main" ]
