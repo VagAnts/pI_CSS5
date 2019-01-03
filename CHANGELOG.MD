@@ -2,4 +2,4 @@
 
 #
 
-## Now http requests are running in backgroun
+## Now http requests are running in background
