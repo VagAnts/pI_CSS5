@@ -2,4 +2,4 @@
 
 #
 
-## Now http requests are running in background with g
+## Now http requests are running in background with go
