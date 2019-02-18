@@ -2,4 +2,4 @@
 
 #
 
-## Now http requests are running in background with go rout
+## Now http requests are running in background with go routi
