@@ -6,4 +6,4 @@
 
 #
 
-## Now gochec
+## Now gocheck
