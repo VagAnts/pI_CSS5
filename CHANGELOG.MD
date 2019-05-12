@@ -6,4 +6,4 @@
 
 #
 
-## Now gocheckitout han
+## Now gocheckitout handl
