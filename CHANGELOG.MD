@@ -6,4 +6,4 @@
 
 #
 
-## Now gocheckitout handl
+## Now gocheckitout handle
