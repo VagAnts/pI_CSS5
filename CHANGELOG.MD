@@ -6,4 +6,4 @@
 
 #
 
-## Now gocheckitout handle http bod
+## Now gocheckitout handle http body
