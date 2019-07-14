@@ -6,4 +6,4 @@
 
 #
 
-## Now gocheckitout handle http body response (optiona
+## Now gocheckitout handle http body response (optional
