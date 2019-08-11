@@ -6,4 +6,4 @@
 
 #
 
-## Now gocheckitout handle http body response (optionally) in CLI, benchmark:
+## Now gocheckitout handle http body response (optionally) in CLI, benchmark: 
