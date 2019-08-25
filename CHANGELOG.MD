@@ -6,4 +6,4 @@
 
 #
 
-## Now gocheckitout handle http body response (optionally) in CLI, benchmark: **0.68s user 0.49s 
+## Now gocheckitout handle http body response (optionally) in CLI, benchmark: **0.68s user 0.49s sy
