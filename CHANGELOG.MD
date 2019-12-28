@@ -10,4 +10,4 @@
 
 #
 
-## The format is bas
+## The format is base
