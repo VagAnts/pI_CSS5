@@ -10,4 +10,4 @@
 
 #
 
-## The format is based on [Keep a Change
+## The format is based on [Keep a Changelo
