@@ -10,4 +10,4 @@
 
 #
 
-## The format is based on [Keep a Changelog](https://keepachange
+## The format is based on [Keep a Changelog](https://keepachangel
