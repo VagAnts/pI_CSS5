@@ -14,4 +14,4 @@
 
 #
 
-### See the source release in [**v1.1.0
+### See the source release in [**v1.1.0*
