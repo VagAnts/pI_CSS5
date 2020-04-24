@@ -14,4 +14,4 @@
 
 #
 
-### See the source release in [**v1.1.0**](https://github.com/Leoff00/gocheckito
+### See the source release in [**v1.1.0**](https://github.com/Leoff00/gocheckitou
