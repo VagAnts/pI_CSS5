@@ -6,3 +6,4 @@ Go checkitout an app to make requests and bring site/webpages informations like:
 ```Go
 type Custom struct {
 	Header     http.Header // Header contents like content-type, accept, etc...
+	StatusCode int16 //output default status code - 200. (This app only returns 200 if OK, if don't will return the specified configurated status code from errors.)
