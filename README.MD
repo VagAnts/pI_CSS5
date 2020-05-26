@@ -11,3 +11,4 @@ type Custom struct {
 	Body       *[]byte // The body converted in slice of bytes.
 	Url        *url.URL //the own url of the request that you are specifying in the dummy text file.
 	Timestamp  string //Default timestamp (IN BRAZILIAN TIMEZONE) of the moment of request.
+}
