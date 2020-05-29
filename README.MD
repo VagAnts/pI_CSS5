@@ -14,3 +14,7 @@ type Custom struct {
 }
 
 ```
+---
+**To run this this project type in the terminal:**
+
+## if you want to compile:
