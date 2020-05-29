@@ -12,3 +12,5 @@ type Custom struct {
 	Url        *url.URL //the own url of the request that you are specifying in the dummy text file.
 	Timestamp  string //Default timestamp (IN BRAZILIAN TIMEZONE) of the moment of request.
 }
+
+```
