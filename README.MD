@@ -25,3 +25,4 @@ see the [build.sh](https://github.com/Leoff00/gocheckitout/blob/dev_1.1.0/build.
 
 ```sh
 go run main.go
+```
