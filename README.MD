@@ -32,3 +32,5 @@ go run main.go
 ```sh
 time go run main.go
 ```
+
+NOTE: this is ONE personal average benchmark of the changelog.
