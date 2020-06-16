@@ -31,3 +31,4 @@ go run main.go
 
 ```sh
 time go run main.go
+```
