@@ -42,3 +42,5 @@ NOTE: this is ONE personal average benchmark of the changelog.
 [See here](https://github.com/Leoff00/gocheckitout/releases) the changelog of the all tags/releases.
 
 #
+
+# Others
