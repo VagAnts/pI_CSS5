@@ -44,3 +44,5 @@ NOTE: this is ONE personal average benchmark of the changelog.
 #
 
 # Others
+
+This is a side project to improve my skills in go lang. Learn Golang here in the [Golang Docs](https://go.dev/doc/).
