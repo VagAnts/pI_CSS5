@@ -8,3 +8,4 @@ import (
 )
 
 //Make request returning only the url and the status code.
+func MakeRequest(url string) error {
