@@ -6,3 +6,5 @@ import (
 
 	"github.com/leoff00/gocheckitout/helpers"
 )
+
+//Make request returning only the url and the status code.
