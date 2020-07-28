@@ -14,3 +14,5 @@ func MakeRequest(url string) error {
 	if err != nil {
 		return err
 	}
+
+	if res.StatusCode == 200 {
