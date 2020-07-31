@@ -21,3 +21,5 @@ func MakeRequest(url string) error {
 
 	return nil
 }
+
+//Make request returning with the custom object with more informations.
