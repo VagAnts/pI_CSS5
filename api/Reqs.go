@@ -27,3 +27,4 @@ func MakeRequestWithDetails(url string) error {
 	res, err := helpers.Requester(url)
 
 	if err != nil {
+		return err
