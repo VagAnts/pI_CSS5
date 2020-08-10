@@ -35,3 +35,4 @@ func MakeRequestWithDetails(url string) error {
 	}
 
 	return nil
+}
