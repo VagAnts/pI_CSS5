@@ -33,3 +33,5 @@ func MakeRequestWithDetails(url string) error {
 	if res.StatusCode == 200 {
 		fmt.Printf("Site loaded %s \n your status is %d \n timestamp: %s \n body: %s", res.Url, res.StatusCode, res.Timestamp, string(*res.Body))
 	}
+
+	return nil
