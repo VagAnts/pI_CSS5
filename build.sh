@@ -1,1 +1,1 @@
-GOO
+GOOS=
