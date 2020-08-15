@@ -1,1 +1,1 @@
-GOOS=dar
+GOOS=darw
