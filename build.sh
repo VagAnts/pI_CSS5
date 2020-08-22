@@ -1,1 +1,1 @@
-GOOS=darwi
+GOOS=darwin
