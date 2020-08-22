@@ -1,1 +1,1 @@
-GOOS=darw
+GOOS=darwi
