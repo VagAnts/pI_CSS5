@@ -1,1 +1,1 @@
-GOOS=darwin go bu
+GOOS=darwin go bui
