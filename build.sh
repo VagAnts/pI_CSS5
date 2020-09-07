@@ -1,1 +1,1 @@
-GOOS=darwin go build -
+GOOS=darwin go build -o
