@@ -1,1 +1,1 @@
-GOOS=darwin go build -o bin/g
+GOOS=darwin go build -o bin/goc
