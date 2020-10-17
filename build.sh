@@ -1,1 +1,1 @@
-GOOS=darwin go build -o bin/gocheckitout-ma
+GOOS=darwin go build -o bin/gocheckitout-mac
