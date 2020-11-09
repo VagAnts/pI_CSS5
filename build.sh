@@ -1,2 +1,2 @@
 GOOS=darwin go build -o bin/gocheckitout-mac
-GOOS=linux go bui
+GOOS=linux go buil
