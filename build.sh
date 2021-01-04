@@ -1,3 +1,3 @@
 GOOS=darwin go build -o bin/gocheckitout-mac
 GOOS=linux go build -o bin/gocheckitout-linux
-GOOS=windows go buil
+GOOS=windows go build
