@@ -8,3 +8,5 @@ import (
 	"os"
 	"strings"
 )
+
+func ReadFiles(path string, rChan chan []string) chan []string {
