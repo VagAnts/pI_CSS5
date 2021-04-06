@@ -12,3 +12,5 @@ import (
 func ReadFiles(path string, rChan chan []string) chan []string {
 	var urls []string
 	file, err := os.Open(path)
+
+	if err != nil {
