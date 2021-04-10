@@ -14,3 +14,4 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 	file, err := os.Open(path)
 
 	if err != nil {
+		log.Fatal(err)
