@@ -21,3 +21,4 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 	buffer := bufio.NewReader(file)
 
 	for {
+		line, err := buffer.ReadString('\n')
