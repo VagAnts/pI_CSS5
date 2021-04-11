@@ -19,3 +19,5 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 
 	defer file.Close()
 	buffer := bufio.NewReader(file)
+
+	for {
