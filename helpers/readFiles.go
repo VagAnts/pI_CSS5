@@ -22,3 +22,4 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 
 	for {
 		line, err := buffer.ReadString('\n')
+		line = strings.TrimSpace(line)
