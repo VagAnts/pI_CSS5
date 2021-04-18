@@ -24,3 +24,5 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 		line, err := buffer.ReadString('\n')
 		line = strings.TrimSpace(line)
 		urls = append(urls, line)
+
+		if err == io.EOF {
