@@ -26,3 +26,4 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 		urls = append(urls, line)
 
 		if err == io.EOF {
+			break
