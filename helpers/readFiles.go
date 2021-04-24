@@ -29,3 +29,5 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 			break
 		}
 	}
+
+	rChan <- urls
