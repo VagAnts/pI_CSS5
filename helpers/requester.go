@@ -6,4 +6,4 @@ import (
 	"net/http"
 	"time"
 
-	utils "github.com/leoff00/gochec
+	utils "github.com/leoff00/gocheck
