@@ -6,4 +6,4 @@ import (
 	"net/http"
 	"time"
 
-	utils "github.com/leoff00/gocheckitout/ut
+	utils "github.com/leoff00/gocheckitout/uti
