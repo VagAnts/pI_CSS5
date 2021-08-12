@@ -9,4 +9,5 @@ import (
 	utils "github.com/leoff00/gocheckitout/utils"
 )
 
-//Helper to make request with options and custom return
+//Helper to make request with options and custom return.
+f
