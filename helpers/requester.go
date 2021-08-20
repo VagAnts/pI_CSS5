@@ -10,4 +10,4 @@ import (
 )
 
 //Helper to make request with options and custom return.
-func Requester(url s
+func Requester(url st
