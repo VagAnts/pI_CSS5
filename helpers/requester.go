@@ -10,4 +10,4 @@ import (
 )
 
 //Helper to make request with options and custom return.
-func Requester(url string) (*utils.Cu
+func Requester(url string) (*utils.Cust
