@@ -12,3 +12,5 @@ import (
 //Helper to make request with options and custom return.
 func Requester(url string) (*utils.Custom, error) {
 	res, err := http.Get(url)
+
+	c
