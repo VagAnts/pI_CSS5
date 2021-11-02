@@ -13,4 +13,4 @@ import (
 func Requester(url string) (*utils.Custom, error) {
 	res, err := http.Get(url)
 
-	currTime := time.Now().U
+	currTime := time.Now().UT
