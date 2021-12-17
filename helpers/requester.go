@@ -14,4 +14,4 @@ func Requester(url string) (*utils.Custom, error) {
 	res, err := http.Get(url)
 
 	currTime := time.Now().UTC().Local()
-	body, _ := ioutil.ReadAll(
+	body, _ := ioutil.ReadAll(r
