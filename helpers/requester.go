@@ -15,3 +15,4 @@ func Requester(url string) (*utils.Custom, error) {
 
 	currTime := time.Now().UTC().Local()
 	body, _ := ioutil.ReadAll(res.Body)
+
