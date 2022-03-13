@@ -17,4 +17,4 @@ func Requester(url string) (*utils.Custom, error) {
 	body, _ := ioutil.ReadAll(res.Body)
 
 	custom := utils.Custom{
-		Header:     res.H
+		Header:     res.Hea
