@@ -18,4 +18,4 @@ func Requester(url string) (*utils.Custom, error) {
 
 	custom := utils.Custom{
 		Header:     res.Header,
-		StatusCode: int16(res.St
+		StatusCode: int16(res.Sta
