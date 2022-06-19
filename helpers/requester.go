@@ -20,4 +20,4 @@ func Requester(url string) (*utils.Custom, error) {
 		Header:     res.Header,
 		StatusCode: int16(res.StatusCode),
 		RawBody:    &res.Body,
-		Body:    
+		Body:     
