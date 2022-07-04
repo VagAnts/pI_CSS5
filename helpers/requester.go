@@ -21,4 +21,4 @@ func Requester(url string) (*utils.Custom, error) {
 		StatusCode: int16(res.StatusCode),
 		RawBody:    &res.Body,
 		Body:       &body,
-		U
+		Ur
