@@ -22,3 +22,4 @@ func Requester(url string) (*utils.Custom, error) {
 		RawBody:    &res.Body,
 		Body:       &body,
 		Url:        res.Request.URL,
+	
