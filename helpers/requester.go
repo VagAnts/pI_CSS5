@@ -25,4 +25,4 @@ func Requester(url string) (*utils.Custom, error) {
 		Timestamp:  currTime.String(),
 	}
 
-	if err 
+	if err !
