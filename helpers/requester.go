@@ -27,4 +27,4 @@ func Requester(url string) (*utils.Custom, error) {
 
 	if err != nil {
 
-		log.Default().Fatal("Failed to make 
+		log.Default().Fatal("Failed to make r
