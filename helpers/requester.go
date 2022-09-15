@@ -29,3 +29,4 @@ func Requester(url string) (*utils.Custom, error) {
 
 		log.Default().Fatal("Failed to make request...")
 		return &custom, err
+	
