@@ -31,4 +31,4 @@ func Requester(url string) (*utils.Custom, error) {
 		return &custom, err
 	}
 
-	return &cu
+	return &cus
