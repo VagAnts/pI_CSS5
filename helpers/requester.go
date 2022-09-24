@@ -33,3 +33,4 @@ func Requester(url string) (*utils.Custom, error) {
 
 	return &custom, nil
 
+}
