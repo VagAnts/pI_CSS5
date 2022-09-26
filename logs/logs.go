@@ -1,2 +1,4 @@
 
 package logs
+
+import "fmt"
