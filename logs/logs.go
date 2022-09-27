@@ -6,3 +6,4 @@ import "fmt"
 func WelcomeLog() {
 	fmt.Println(
 		"Welcome to go Check-it-out, Choose an option to execute the features", "\n",
+		"1 - Only make a request with no details", "\n",
