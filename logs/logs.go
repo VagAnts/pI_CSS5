@@ -11,3 +11,5 @@ func WelcomeLog() {
 		"3 - For exit CLI menu",
 	)
 }
+
+func InvalidOperation() {
