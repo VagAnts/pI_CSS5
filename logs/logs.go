@@ -13,3 +13,4 @@ func WelcomeLog() {
 }
 
 func InvalidOperation() {
+	fmt.Println("Invalid operation, exiting...")
