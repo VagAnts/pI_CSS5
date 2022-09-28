@@ -9,3 +9,5 @@ func WelcomeLog() {
 		"1 - Only make a request with no details", "\n",
 		"2 - Make a request with some details", "\n",
 		"3 - For exit CLI menu",
+	)
+}
