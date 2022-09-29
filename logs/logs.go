@@ -15,3 +15,6 @@ func WelcomeLog() {
 func InvalidOperation() {
 	fmt.Println("Invalid operation, exiting...")
 }
+
+func Exiting() {
+	fmt.Println("Exiting...")
