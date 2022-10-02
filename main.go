@@ -6,3 +6,5 @@ import (
 	"log"
 	"os"
 	"sync"
+
+	"github.com/leoff00/gocheckitout/api"
