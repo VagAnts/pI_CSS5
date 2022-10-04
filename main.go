@@ -11,3 +11,5 @@ import (
 	"github.com/leoff00/gocheckitout/helpers"
 	"github.com/leoff00/gocheckitout/logs"
 )
+
+func readOptionCode() int16 {
