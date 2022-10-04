@@ -15,3 +15,4 @@ import (
 func readOptionCode() int16 {
 	var code int16
 	fmt.Scan(&code)
+	return code
