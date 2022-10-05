@@ -17,3 +17,5 @@ func readOptionCode() int16 {
 	fmt.Scan(&code)
 	return code
 }
+
+var wg sync.WaitGroup
