@@ -22,3 +22,5 @@ var wg sync.WaitGroup
 
 func main() {
 	logs.WelcomeLog()
+
+	res := make(chan []string)
