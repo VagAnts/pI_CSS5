@@ -24,3 +24,4 @@ func main() {
 	logs.WelcomeLog()
 
 	res := make(chan []string)
+	go helpers.ReadFiles("dummy.txt", res)
