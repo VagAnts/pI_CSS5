@@ -21,3 +21,4 @@ func readOptionCode() int16 {
 var wg sync.WaitGroup
 
 func main() {
+	logs.WelcomeLog()
