@@ -26,3 +26,5 @@ func main() {
 	res := make(chan []string)
 	go helpers.ReadFiles("dummy.txt", res)
 	urls := <-res
+
+	readedCode := readOptionCode()
