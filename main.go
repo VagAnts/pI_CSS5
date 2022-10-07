@@ -28,3 +28,5 @@ func main() {
 	urls := <-res
 
 	readedCode := readOptionCode()
+
+	switch readedCode {
