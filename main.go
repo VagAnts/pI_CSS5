@@ -32,3 +32,4 @@ func main() {
 	switch readedCode {
 	case 1:
 		for _, url := range urls {
+			wg.Add(1)
