@@ -30,3 +30,5 @@ func main() {
 	readedCode := readOptionCode()
 
 	switch readedCode {
+	case 1:
+		for _, url := range urls {
