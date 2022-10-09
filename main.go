@@ -37,3 +37,4 @@ func main() {
 				err := api.MakeRequest(nUrl)
 				if err != nil {
 					log.Default().Fatal("Cannot make request correctly.")
+				}
