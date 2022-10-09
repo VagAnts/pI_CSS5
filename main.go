@@ -38,3 +38,4 @@ func main() {
 				if err != nil {
 					log.Default().Fatal("Cannot make request correctly.")
 				}
+				defer wg.Done()
