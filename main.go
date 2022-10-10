@@ -41,3 +41,4 @@ func main() {
 				defer wg.Done()
 			}(url)
 		}
+	case 2:
