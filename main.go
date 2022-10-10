@@ -42,3 +42,4 @@ func main() {
 			}(url)
 		}
 	case 2:
+		for _, url := range urls {
