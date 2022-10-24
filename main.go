@@ -44,3 +44,4 @@ func main() {
 	case 2:
 		for _, url := range urls {
 			wg.Add(1)
+			go func(nUrl string) {
