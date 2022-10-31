@@ -45,3 +45,4 @@ func main() {
 		for _, url := range urls {
 			wg.Add(1)
 			go func(nUrl string) {
+				err := api.MakeRequestWithDetails(nUrl)
