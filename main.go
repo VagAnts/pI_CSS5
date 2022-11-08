@@ -46,3 +46,8 @@ func main() {
 			wg.Add(1)
 			go func(nUrl string) {
 				err := api.MakeRequestWithDetails(nUrl)
+				if err != nil {
+					log.Default().Fatal("Cannot make request correctly.", err)
+				}
+				defer wg.Done()
+			}(url)
