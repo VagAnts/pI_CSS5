@@ -55,3 +55,7 @@ func main() {
 	case 3:
 		logs.Exiting()
 		os.Exit(0)
+
+	default:
+		logs.InvalidOperation()
+		os.Exit(-1)
