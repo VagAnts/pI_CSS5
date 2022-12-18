@@ -59,3 +59,4 @@ func main() {
 	default:
 		logs.InvalidOperation()
 		os.Exit(-1)
+	}
