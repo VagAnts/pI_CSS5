@@ -60,3 +60,4 @@ func main() {
 		logs.InvalidOperation()
 		os.Exit(-1)
 	}
+	defer wg.Wait()
